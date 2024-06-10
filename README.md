@@ -1,2 +1,2 @@
 # Website
-Creating a website that hoses all my projects
+Creating a website that hosues all my projects
